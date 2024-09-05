@@ -10,13 +10,13 @@ body {
 
 #container {
     width: 750px;
-    margin: 0;
+    margin: 0 auto;
 }
 
 #topo {
     height: 150px;
     background: url(../Assets/Imagens/detalhe-topo.png) no-repeat right top;
-    padding-top: 25px
+    padding-top: 25px;
 }
 
 .logo {
@@ -80,13 +80,13 @@ body.fotos #navegacao a#fotos {
 
 #primario {
     width: 270px;
-    margin: 0 0 20px;
+    margin: 0 0 20px 195px;
     float: left;
 }
 
 #secundario {
     width: 270px;
-    margin: 0 0 20px;
+    margin: 0 0 20px 15px;
     float: left;
 }
 
@@ -119,6 +119,15 @@ h2 {
     background: #b10333;
     color: white;
 }
+
+#lista-noticias li {
+    padding: 2px;
+    border-bottom: 1px solid #ccc;
+    height: 65px;
+}
+
+
+
 
 
 
