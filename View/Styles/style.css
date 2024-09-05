@@ -70,7 +70,61 @@ body.fotos #navegacao a#fotos {
     color: white;
     background: #de003e;
     cursor: text;
-}  
+} 
+
+
+#conteudo {
+    margin-top: 60px;
+    background: #f5f5f5;
+}
+
+#primario {
+    width: 270px;
+    margin: 0 0 20px;
+    float: left;
+}
+
+#secundario {
+    width: 270px;
+    margin: 0 0 20px;
+    float: left;
+}
+
+#lateral {
+    width: 180px;
+    margin: 0 0 20px -750px;
+    float: left;
+}
+
+.caixa {
+    margin: 10px 0;
+    padding: 5px 0 5px 0;
+    background: #f3f3f3 url(../Assets/Imagens/fundo-caixa.png);
+}
+
+h2 {
+    font: 1.1em;
+    background: #294c71;
+    color: white;
+    padding: 8px;
+}
+
+.caixa-conteudo {
+    background: white;
+    padding: 8px;
+    margin-top: 8px
+}
+
+.titulo-h3 { 
+    background: #b10333;
+    color: white;
+}
+
+
+
+
+
+
 
 
 
