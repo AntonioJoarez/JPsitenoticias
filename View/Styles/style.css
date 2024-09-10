@@ -72,6 +72,18 @@ body.fotos #navegacao a#fotos {
     cursor: text;
 } 
 
+#uma-coluna #primario {
+    width: 750px;
+    margin: 0 0 20px;
+    float: left;
+}
+
+#duas-colunas #primario {
+    width: 555px;
+    margin: 0 0 20px 195px;
+    float: left;
+}
+
 
 #conteudo {
     margin-top: 60px;
@@ -200,6 +212,8 @@ button {
 button:hover {
     background-color: #6d0523;
 }
+
+
 
 
 
